@@ -113,9 +113,8 @@ hi-high
 
 ## 🙌 팀 소개
 
-| 이름 | 역할 |
-|------|------|
-| 오승민 | 프론트엔드 / 팀장 |
-| 유지희 | 프론트엔드 / 디자인 |
-| 오현우 | 백엔드 |
-| 신상현 | 프론트엔드 / 기획 |
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/840a1be1-0e58-45f9-8076-fd50b96bbb6f" alt="TEAM_MEMBER" width="1200"/>
+</p>
+
