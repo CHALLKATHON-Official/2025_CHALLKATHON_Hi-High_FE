@@ -20,7 +20,7 @@
 ## 🖼️ 서비스 미리보기
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4d490f47-b388-43b1-a963-46c643af6232" alt="TEAM_INTRO" width="1200"/>
+  <img src="https://github.com/user-attachments/assets/97a22e18-8964-4ef8-b313-e73ae91b7240" alt="TEAM_INTRO" width="1200"/>
 </p>
 
 ---
